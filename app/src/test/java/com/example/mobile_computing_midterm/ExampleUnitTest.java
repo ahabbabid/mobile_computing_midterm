@@ -1,4 +1,4 @@
-package com.example.myapplication;
+package com.example.mobile_computing_midterm;
 
 import org.junit.Test;
 
