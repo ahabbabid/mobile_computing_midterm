@@ -9,5 +9,5 @@ import retrofit2.http.Query;
 public interface TweetAPI {
 
     @GET("/")
-    Call<List<Tweet>> loadChanges(@Query("q") String status);
+    Call<List<Tweet>> getTweets();
 }
